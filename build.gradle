@@ -6,10 +6,7 @@ plugins {
 }
 apply plugin: 'com.github.johnrengelman.shadow'
 apply plugin: 'java'
-sourceCompatibility = JavaVersion.VERSION_17
-targetCompatibility = JavaVersion.VERSION_17
 
-archivesBaseName = project.archives_base_name
 version = project.mod_version
 group = project.maven_group
 
@@ -84,4 +81,3 @@ publishing {
 	}
 }
 compileJava.options.fork = true
-compileJava.options.forkOptions.executable = 'O:\\oracle-jdk-17.0.2\\bin\\javac.exe'
