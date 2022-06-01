@@ -1,0 +1,22 @@
+{
+    "item.streetfood.sweet_potato": "红薯",
+    "item.streetfood.roasted_sweet_potato": "烤红薯",
+    "item.streetfood.chopped_meat": "肉馅",
+    "item.streetfood.flour": "面粉",
+    "item.streetfood.dough": "面团",
+    "item.streetfood.raw_sausage": "生香肠",
+    "item.streetfood.sausage": "香肠",
+    "item.streetfood.cooked_sausage": "烤香肠",
+    "item.streetfood.crust": "饼皮",
+    "item.streetfood.dumpling": "饺子",
+    "item.streetfood.dumpling_skin": "饺子皮",
+    "item.streetfood.hot_dog": "热狗",
+    "item.streetfood.pancake": "馅饼",
+    "item.streetfood.raw_dumpling": "生饺子",
+    "item.streetfood.raw_pancake": "生馅饼",
+    "item.streetfood.raw_stuffened_bun": "生包子",
+    "item.streetfood.stuffened_bun": "包子",
+    "item.streetfood.stuffened_bun_skin": "包子皮",
+
+    "itemGroup.streetfood.streetfood": "路边摊"
+}

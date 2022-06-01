@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "streetfood:raw_dumpling"
+  },
+  "result": "streetfood:dumpling",
+  "experience": 0.35,
+  "cookingtime": 100
+}

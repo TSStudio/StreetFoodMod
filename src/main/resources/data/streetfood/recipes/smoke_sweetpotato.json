@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "streetfood:sweet_potato"
+    },
+    "result": "streetfood:roasted_sweet_potato",
+    "experience": 0.35,
+    "cookingtime": 100
+}

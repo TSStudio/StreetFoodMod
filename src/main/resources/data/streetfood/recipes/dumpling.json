@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "streetfood:dumpling_skin"
+    },{
+      "item": "streetfood:chopped_meat"
+    }
+  ],
+  "result": {
+    "item": "streetfood:raw_dumpling"
+  }
+}

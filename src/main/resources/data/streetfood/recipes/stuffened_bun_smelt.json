@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "streetfood:raw_stuffened_bun"
+  },
+  "result": "streetfood:stuffened_bun",
+  "experience": 0.35,
+  "cookingtime": 200
+}

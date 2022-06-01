@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "streetfood:flour"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "streetfood:chopped_meat"
+    }
+  ],
+  "result": {
+    "item": "streetfood:raw_sausage"
+  }
+}

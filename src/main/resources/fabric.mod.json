@@ -1,36 +1,36 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "streetfood",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Street Food",
+  "description": "Includes some street foods.",
   "authors": [
-    "Me!"
+    "tmy_sam"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/TSStudio/StreetFoodMod"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "LGPL-3.0-or-later",
+  "icon": "assets/streetfood/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "top.tmysam.streetfood.streetfood"
+    ],
+    "client": [
+      "top.tmysam.streetfood.clientInitializer"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
-    "fabricloader": ">=0.14.6",
     "fabric": "*",
-    "minecraft": "~1.18.2",
-    "java": ">=17"
+    "minecraft": "*"
   },
   "suggests": {
     "another-mod": "*"

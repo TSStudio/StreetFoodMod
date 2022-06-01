@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "streetfood:raw_pancake"
+  },
+  "result": "streetfood:pancake",
+  "experience": 0.35,
+  "cookingtime": 100
+}

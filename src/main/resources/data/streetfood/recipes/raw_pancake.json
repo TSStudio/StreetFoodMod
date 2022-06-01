@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "streetfood:crust"
+    },{
+      "item": "streetfood:chopped_meat"
+    }
+  ],
+  "result": {
+    "item": "streetfood:raw_pancake"
+  }
+}

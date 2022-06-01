@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "streetfood:cooked_sausage"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "streetfood:hot_dog"
+  }
+}
